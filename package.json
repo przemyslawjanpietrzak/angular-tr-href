@@ -1,0 +1,19 @@
+{
+  "name": "angular-tr-href",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/angular-tr-href.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/przemyslawjanpietrzak/angular-tr-href.git"
+  },
+  "author": "przemyslawjanpietrzak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/przemyslawjanpietrzak/angular-tr-href/issues"
+  },
+  "homepage": "https://github.com/przemyslawjanpietrzak/angular-tr-href#readme"
+}

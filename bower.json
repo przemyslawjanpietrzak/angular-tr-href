@@ -1,0 +1,17 @@
+{
+  "name": "angular-tr-href",
+  "version": "0.0.0",
+  "homepage": "https://github.com/przemyslawjanpietrzak/angular-tr-href",
+  "authors": [
+    "Przemyslaw Pietrzak <przemyslaw.jan.pietrzak@gmail.com>"
+  ],
+  "main": "src/angular-tr-href.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
