@@ -2,7 +2,7 @@
   "name": "angular-tr-href",
   "version": "1.0.0",
   "description": "",
-  "main": "src/angular-tr-href.js",
+  "main": "dist/angular-tr-href.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/przemyslawjanpietrzak/angular-tr-href/issues"
   },
-  "homepage": "https://github.com/przemyslawjanpietrzak/angular-tr-href#readme"
+  "homepage": "https://github.com/przemyslawjanpietrzak/angular-tr-href#readme",
+  "devDependencies": {
+    "babel-cli": "^6.5.1",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "gulp-babel": "^6.1.2"
+  }
 }
