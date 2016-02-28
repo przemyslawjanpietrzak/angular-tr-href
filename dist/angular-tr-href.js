@@ -1,6 +1,6 @@
 'use strict';
 
-(function () {
+{
     angular.module('angular-tr-href', []).directive('trHref', function () {
         return {
             restrict: 'A',
@@ -36,4 +36,4 @@
             }
         };
     });
-})();
+}
