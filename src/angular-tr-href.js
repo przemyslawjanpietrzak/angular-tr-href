@@ -1,5 +1,6 @@
 {
     angular.module('angular-tr-href', []).directive('trHref', function() {
+        "use strict";
         return {
             restrict: 'A',
             scope: false,
