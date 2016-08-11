@@ -4,7 +4,8 @@
   "description": "",
   "main": "dist/angular-tr-href.js",
   "scripts": {
-    "test": "karma start"
+    "test": "karma start",
+    "build": "gulp"
   },
   "repository": {
     "type": "git",
