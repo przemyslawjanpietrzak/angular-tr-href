@@ -4,7 +4,6 @@
     "../src/**/*[sS]pec.js"
   ],
   "helpers": [
-    "helpers/**/*.js",
     "../node_modules/jasmine-es6/lib/install.js"
   ]
 }
