@@ -1,12 +1,4 @@
 "use strict";
-describe('anguler-tr-href test', function () {
-
-  it("test test", function () {
-    expect(2).toBe(
-      2
-    );
-  });
-});
 
 describe('MyApp Tabs', function () {
   var elm, scope, elmWithIgnore, elmWithTDUiSref;
